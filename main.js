@@ -1,4 +1,5 @@
 import "./style.css";
+<<<<<<< HEAD
 
 const ELE = document.documentElement;
 const mobileNav = document.getElementById("mobile-nav");
@@ -30,3 +31,5 @@ options.forEach((item) =>
 );
 
 ELE.classList.add(localStorage.getItem("theme"));
+=======
+>>>>>>> 3f9337e167ed898973dc5da72f27c77b8dcf6e22
